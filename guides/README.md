@@ -5,3 +5,7 @@
 [Administration](https://learn.microsoft.com/en-us/collections/mom7u1gzjdxw03)
 
 [GitHub Advanced Security solutions](https://github.com/advanced-security/)
+
+[Code Security and Scanning](https://docs.github.com/en/code-security/code-scanning/)
+
+[Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/)
