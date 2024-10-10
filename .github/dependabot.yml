@@ -1,0 +1,9 @@
+version: 2
+updates:
+
+# add a new entry for the Python package manager
+  - package-ecosystem: "pip"
+    directory: "/app/py"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 5
