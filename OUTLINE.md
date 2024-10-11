@@ -1,13 +1,14 @@
-# Security Team Training with GitHub Advanced Security - Developer
+# Security Team Training with GitHub Advanced Security
 
 3 Hours / Instructor-Led / Format: Virtual Seminar
+
 Contact Us for Pricing
 
 ## About this Course
 
-Scurity teams are responsible for securing the applications that their organization develops and deploys. GitHub Advanced Security allows you to have a “developer-first” approach to Application Security, recognizing that developers have a critical role to play in securing your applications. As a security professional, it is important that you understand the features available in GitHub and how to use them effectively. 
+Security teams are responsible for securing the applications that their organization develops and deploys. GitHub Advanced Security allows you to have a “developer-first” approach to Application Security, recognizing that developers have a critical role to play in securing your applications. As a security professional, it is important that you understand the features available in GitHub and how to use them effectively. 
 
-The course begins with the "big picture" of how GitHub Advanced Security fits into the overall security strategy of your organization. Import topics such as Worksflows with GitHub Actions, CI/CD, and Secrets will be covered. The course will also cover how to enable and configure the features of GitHub Advanced Security, including Code Scanning, Secret Scanning, and Dependabot.
+The course begins with the "big picture" of how security fits into the overall GitHub environment. Important topics such as worksflows with GitHub Actions, CI/CD, and Secrets will be covered. The course then focuses on how to enable and configure the features of GitHub Advanced Security, including Code Scanning, Secret Scanning, and Dependabot.
 
 ## Key Learning Areas
 
@@ -50,7 +51,7 @@ It is recommended that the developers have access to GHAS licenses before attend
 ## GitHub Secrets
 - GitHub Secret store
 - Using Secrets in GitHub Actions
-- GITHUB_TOKEN
+- The role of GITHUB_TOKEN in GitHub Actions
 - Custom secrets at the Organization, Repository, and Environment level
 - Best practices for managing Secrets in GitHub
 
@@ -82,12 +83,12 @@ It is recommended that the developers have access to GHAS licenses before attend
 
 After completing this course, participants will be able to:
 
-- reduce developer friction by increasing awareness of GitHub security features
-- enable and configure the features of GitHub Advanced Security
-- understand important features available in GitHub that developers can use to secure their applications
-- use CodeQL to perform static analysis for commonly used languages
-- configure GitHub Actions to trigger CodeQL analysis on both a schedule and in response to a Pull Request
-- use Dependabot to keep dependencies up-to-date
-- use Secret Scanning to identify and remediate secrets in your code proactively or in response to a security incident
-- use Copilot Chat to assist with security scenarios
+- Reduce developer friction by increasing awareness of GitHub security features
+- Enable and configure the features of GitHub Advanced Security
+- Understand important features available in GitHub that developers can use to secure their applications
+- Use CodeQL to perform static analysis for commonly used languages
+- Configure GitHub Actions to trigger CodeQL analysis on both a schedule and in response to a Pull Request
+- Use Dependabot to keep dependencies up-to-date
+- Use Secret Scanning to identify and remediate secrets in your code proactively or in response to a security incident
+- Use Copilot Chat to assist with security scenarios
 
