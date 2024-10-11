@@ -1,3 +1,4 @@
+set -x
 if [ "$message" ]; then
     echo $message
     echo $repo_owner
@@ -5,3 +6,4 @@ if [ "$message" ]; then
 else
     echo "A welcome message was not provided."
 fi
+
