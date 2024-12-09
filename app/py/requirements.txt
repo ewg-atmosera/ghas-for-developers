@@ -28,7 +28,7 @@ mysql-connector-python==9.0.0
 nest-asyncio==1.6.0
 numpy==2.0.0
 packaging==24.1
-pandas==2.2.2
+pandas==2.2.3
 parso==0.8.4
 pillow==10.4.0
 platformdirs==4.2.2
