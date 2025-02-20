@@ -37,6 +37,9 @@
 
 - While the previous slide is a good start, it is not the end goal
 - The end goal is to have security integrated into every aspect of the development process **and** the deployment process
+- SCA - Software Composition Analysis
+- SAST - Static Application Security Testing
+- DAST - Dynamic Application Security Testing
 
 ## Slide: Developer first?
 
