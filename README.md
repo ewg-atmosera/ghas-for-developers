@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the courseware for the GitHub Advanced Security for Developers course. The course is designed to help develoeprs understand how to secure their code using GitHub Advanced Security.
+This repository contains the courseware for the GitHub Advanced Security for Developers course. The course is designed to help developers understand how to secure their code using GitHub Advanced Security.
 
 ## Schedule
 
@@ -12,11 +12,21 @@ This repository contains the courseware for the GitHub Advanced Security for Dev
 - Last hour is Q&A
 - There are no independent labs, but the demos are scripted so you can follow along or explore them on your own following the session
 
+## Outline Overview
+
+- What is GitHub Advanced Security (GHAS)?
+- Survey of GitHub.com for GHAS features
+- Secret Scanning
+- CodeQL
+- Dependabot
+- Security Policies
+- Branch Policies
+- Q&A
+
 ## Course Documents
 
 - [Course Outline](./docs/GitHubAdvancedSecurityDeveloperTrainingOutline.pdf)
 - [Course Slides](./docs/GitHubAdvancedSecurityDeveloperTrainingSlides.pdf)
-- [Scripting GitHub Advanced Security](./scripts/scripts.md)
 - [Glossary](./docs/glossary.md)
 
 ## Demos
