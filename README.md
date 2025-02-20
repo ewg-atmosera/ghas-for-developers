@@ -27,6 +27,7 @@ This repository contains the courseware for the GitHub Advanced Security for Dev
 
 - [Course Outline](./docs/GitHubAdvancedSecurityDeveloperTrainingOutline.pdf)
 - [Course Slides](./docs/GitHubAdvancedSecurityDeveloperTrainingSlides.pdf)
+- [Slides Notes](./docs/slides_notes.md)
 - [Glossary](./docs/glossary.md)
 
 ## Demos
