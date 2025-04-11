@@ -38,10 +38,13 @@ This repository contains the courseware for the GitHub Advanced Security for Dev
 - [04 - CodeQL Default Setup](./demos/04_codeql_default_setup.md)
 - [05 - CodeQL Advanced Setup](./demos/05_codeql_advanced_setup.md)
 - [06 - CodeQL Manual Trigger](./demos/06_codeql_manual_trigger.md)
-- [07 - Integrate with Third-Party Scanner](./demos/07_integrate_with_third_party_scanner.md)
-- [08 - Dependabot Default](./demos/08_dependabot_default.md)
-- [09 - Dependabot Custom](./demos/09_dependabot_custom.md)
-- [10 - Security Policy](./demos/10_security_policy.md)
+- [07 - CodeQL CLI](./demos/07_codeql_cli.md)
+- [08 - CodeQL Custom Query](./demos/08_codeql_custom_query.md)
+- [09 - CodeQL Custom Pack](./demos/09_codeql_custom_pack.md)
+- [10 - Integrate with Third-Party Scanner](./demos/07_integrate_with_third_party_scanner.md)
+- [11 - Dependabot Default](./demos/08_dependabot_default.md)
+- [12 - Dependabot Custom](./demos/09_dependabot_custom.md)
+- [13 - Security Policy](./demos/10_security_policy.md)
 
 ## Repos for Demos
 
