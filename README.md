@@ -6,21 +6,19 @@ This repository contains the courseware for the GitHub Advanced Security for Dev
 
 ## Schedule
 
-- Session is approximately 3 hours
-- One 15 minute break about halfway through
-- First 2 hours are lecture and demos
-- Last hour is Q&A
+- Session is approximately 1.5 hours
+- One 10 minute break about halfway through
 - There are no independent labs, but the demos are scripted so you can follow along or explore them on your own following the session
 
 ## Outline Overview
 
 - What is GitHub Advanced Security (GHAS)?
-- Survey of GitHub.com for GHAS features
+- Survey of GitHub.com for GHAS features (very quick, if needed)
 - Secret Scanning
 - CodeQL
-- Dependabot
-- Security Policies
-- Branch Policies
+- Dependabot (skipped for today's session)
+- Security Policies (skipped for today's session)
+- Branch Policies (skipped for today's session)
 - Q&A
 
 ## Course Documents
@@ -29,6 +27,7 @@ This repository contains the courseware for the GitHub Advanced Security for Dev
 - [Course Slides](./docs/GitHubAdvancedSecurityDeveloperTrainingSlides.pdf)
 - [Slides Notes](./docs/slides_notes.md)
 - [Glossary](./docs/glossary.md)
+- [Code Scanning Notes](./docs/code_scanning.md)
 
 ## Demos
 
