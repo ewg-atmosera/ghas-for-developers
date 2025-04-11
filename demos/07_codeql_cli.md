@@ -1,4 +1,4 @@
-# CodeQL CodeQL CLI
+# CodeQL CLI
 
 ## Useful Links
 
