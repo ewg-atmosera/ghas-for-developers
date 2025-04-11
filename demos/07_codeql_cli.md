@@ -145,19 +145,27 @@
 
 1. This file can be published to Azure DevOps and GitHub Advanced Security. For example, to publish the results to GitHub Advanced Security, run the following command from the terminal from the root folder of the project.
 
-    First, you need a GitHub Personal Access Token saved to the environment variable `GITHUB_TOKEN`. Then, you can run the following command.
+    - First, you need a GitHub Personal Access Token saved to the environment variable `GITHUB_TOKEN`. Then, you can run the following command.
 
-    Second, you will need to create a Git repository on GitHub.com, and push the `web_app` folder to it.
+        If you are using the GitHub CLI on Linux/macOS, you will need to run the following command to set the `GITHUB_TOKEN` environment variable.
 
-    Third, enable GitHub Advanced Security for the repository.
+        ```bash
+        export GITHUB_TOKEN=`gh auth token`
+        ```
 
-    ```bash
-    codeql github upload-results --sarif ./results.sarif --ref refs/heads/main
-    ```
+    - Second, you will need to create a Git repository on GitHub.com, initialize `web_app` as a Git repo, then commit and push the code.
 
-    - If `codeql` is not in your system path, you will need to use the fully qualified directory name to run CodeQL.
-    - The `upload` command is used to upload the SARIF file to GitHub Advanced Security.
-    - The `results.sarif` file is the SARIF file we generated in the previous step.
+    - Third, enable GitHub Advanced Security for the repository.
+
+    - Finally, run the following command.
+
+        ```bash
+        codeql github upload-results --sarif ./results.sarif --ref refs/heads/main
+        ```
+
+        - If `codeql` is not in your system path, you will need to use the fully qualified directory name to run CodeQL.
+        - The `upload` command is used to upload the SARIF file to GitHub Advanced Security.
+        - The `results.sarif` file is the SARIF file we generated in the previous step.
 
     When the command completes, you will see the results in GitHub Advanced Security.
 
