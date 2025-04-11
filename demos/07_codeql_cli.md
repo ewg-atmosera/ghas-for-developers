@@ -147,6 +147,8 @@
 
     First, you need a GitHub Personal Access Token saved to the environment variable `GITHUB_TOKEN`. Then, you can run the following command.
 
+    Second, you will need to create a Git repository on GitHub.com, and push the `web_app` folder to it.
+
     ```bash
     codeql github upload-results --sarif ./results.sarif --ref refs/heads/main
     ```
