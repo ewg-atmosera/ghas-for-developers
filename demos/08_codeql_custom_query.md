@@ -10,9 +10,9 @@
 
 1. Open the `web_app` folder in your code editor.
 
-1. In the root folder, of the `web_app` folder, create a new folder named `custom_queries`.
+1. In the root folder, of the `web_app` folder, create a new folder named `custom-queries`.
 
-1. Create a new file named `qlpack.yml` in the `custom_queries` folder. Add the following content to the file:
+1. Create a new file named `qlpack.yml` in the `custom-queries` folder. Add the following content to the file:
 
     ```yml
     name: my-python-codeql-queries
@@ -109,7 +109,7 @@
 1. Generate a SARIF file from the results.
 
     ```bash
-    codeql database analyze web-app-db codeql/python-queries ./custom-queries --format=sarif --output=results.sarif
+    codeql database analyze web-app-db codeql/python-queries ./custom-queries --format=sarif-latest --output=results.sarif
     ```
 
 1. Upload the SARIF file to GitHub.

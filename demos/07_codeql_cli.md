@@ -149,6 +149,8 @@
 
     Second, you will need to create a Git repository on GitHub.com, and push the `web_app` folder to it.
 
+    Third, enable GitHub Advanced Security for the repository.
+
     ```bash
     codeql github upload-results --sarif ./results.sarif --ref refs/heads/main
     ```
