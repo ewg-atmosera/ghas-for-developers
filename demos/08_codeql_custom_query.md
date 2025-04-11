@@ -3,6 +3,8 @@
 ## Useful Links
 
 - [GitHub CodeQL Custom Queries Docs](https://docs.github.com/en/code-security/codeql-cli/using-the-advanced-functionality-of-the-codeql-cli/using-custom-queries-with-the-codeql-cli)
+- [CodeQL Language Overview](hhttps://codeql.github.com/docs/codeql-overview/)
+- [Examples of Python CodeQL Queries](https://github.com/github/codeql/tree/main/python/ql/examples/snippets)
 
 ## Instructions
 

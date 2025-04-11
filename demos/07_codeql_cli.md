@@ -147,7 +147,7 @@
 
     - First, you need a GitHub Personal Access Token saved to the environment variable `GITHUB_TOKEN`. Then, you can run the following command.
 
-        If you are using the GitHub CLI on Linux/macOS, you will need to run the following command to set the `GITHUB_TOKEN` environment variable.
+        Hint: If you are using the GitHub CLI on Linux/macOS, you can run the following command to easily set the `GITHUB_TOKEN` environment variable.
 
         ```bash
         export GITHUB_TOKEN=`gh auth token`
